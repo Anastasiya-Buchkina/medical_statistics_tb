@@ -495,12 +495,6 @@ python3 orchestrator.py validate
 - `public.tb_calculated_indicators` - KPI и графики;
 - `public.v_tb_incidence_subjects_datalens_map` - витрина для карты субьектов РФ и рейтинга субьектов.
 
-**Что используется для карты:**
-
-- показатели по субъектам РФ из `public.tb_incidence_subjects`;
-- маппинг названий субъектов из `public.dim_tb_subject_region_map`;
-- полигоны регионов из `public.tb_regions`.
-
 **Результат этапа:**
 
 - расчетные показатели доступны для графиков и KPI;
