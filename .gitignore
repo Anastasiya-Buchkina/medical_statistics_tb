@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb
+
+.env
+*.env
+.venv/
+venv/
+
+*.log
+
+# Локальные исходники и результаты ETL.
+data/
+processed/
+
+# Резерв старой архитектуры. Рабочий ETL живет в etl/.
+scr/
+
+# Локальная папка подготовки публикации.
+Для Гитхаб/
+
+# Локальный контекст для AI-ассистента.
+ai_context/
