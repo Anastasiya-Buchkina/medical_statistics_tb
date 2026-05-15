@@ -114,7 +114,7 @@ medical_statistics_tb/
 │   └── tb_indicators.sql        # пересборка расчетной витрины
 ├── data/                        # локальные исходные данные, не публикуются
 ├── processed/                   # контрольные CSV, не публикуются
-└── Дашборд/                     # скриншоты BI-дашборда
+└── images                       # скриншоты BI-дашборда и схема etl
 ```
 
 ---
@@ -125,11 +125,8 @@ medical_statistics_tb/
 Проект использует файл `.env` для хранения параметров подключения к
 PostgreSQL/Supabase.
 
-Пример: `.env.example`
+Пример: [`.env.example`](.env.example)
 
-```env
-DATABASE_URL=postgresql://USER:PASSWORD@HOST:5432/DATABASE
-```
 
 #### Зависимости
 
