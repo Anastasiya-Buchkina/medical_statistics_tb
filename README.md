@@ -525,19 +525,19 @@ python3 orchestrator.py validate
 **Структура дашборда**
 
 #### 1. Туберкулёз в РФ и регионах
-![Туберкулёз в РФ и регионах](images/dashboard_01_rf_regions.png)
+![Туберкулёз в РФ и регионах](images/01_tb_rf_regions_overview.png)
 
 #### 2. Заболеваемость и структура
-![Заболеваемость и структура](images/dashboard_02_incidence_structure.png)
+![Заболеваемость и структура](images/02_tb_incidence_structure.png)
 
 #### 3. Выявление и профилактика
-![Выявление и профилактика](images/dashboard_03_detection_prevention.png)
+![Выявление и профилактика](images/03_tb_detection_prevention.png)
 
 #### 4. Тяжесть и смертность
-![Тяжесть и смертность](images/dashboard_04_severity_mortality.png)
+![Тяжесть и смертность](images/04_tb_severity_mortality.png)
 
 #### 5. Лечение и ресурсы
-![Лечение и ресурсы](images/dashboard_05_treatment_resources.png)
+![Лечение и ресурсы](images/05_tb_treatment_resources.png)
 
 **Результат этапа:**
 - Построен интерактивный BI-дашборд в **Yandex DataLens**;
