@@ -479,27 +479,6 @@ python3 orchestrator.py validate
 - полнота расчетной витрины;
 - отсутствие дублей в `public.tb_calculated_indicators`.
 
-**Ожидаемые объемы данных:**
-
-```text
-tb_population: 405
-tb_regions: 85
-tb_form8_1000: 3762
-tb_form33_2100: 780
-tb_form33_2200: 324
-tb_form33_2300: 648
-tb_form33_2310: 63
-tb_form33_2400: 882
-tb_form33_2500: 700
-tb_form33_2600: 648
-tb_form30_1100: 54
-tb_form30_2513: 63
-tb_form30_3100: 36
-tuberculosis_incidence_by_subjects_docx: 1900
-tuberculosis_incidence_by_subjects_pdf: 1520
-tb_calculated_indicators: 1251
-```
-
 **Результат этапа:**
 
 - ETL можно проверить одной командой;
