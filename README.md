@@ -1,1 +1,1 @@
-# medical_statistics_tb
+Анализ медицинской статистики по туберкулезу в России и детально в Иркутской области на основе ETL-обработки данных из Excel, DOCX, PDF и CSV-источников с использованием Python, PostgreSQL/Supabase и Yandex DataLens.
