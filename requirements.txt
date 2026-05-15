@@ -1,0 +1,25 @@
+# Основные зависимости ETL-проекта.
+# Установка: pip install -r requirements.txt
+
+# Табличная обработка и Excel.
+pandas
+openpyxl
+xlrd
+
+# DOCX/PDF-парсинг.
+python-docx
+pdfplumber
+
+# PostgreSQL.
+sqlalchemy
+psycopg2-binary
+
+# Конфигурация окружения.
+python-dotenv
+
+# Вспомогательные инструменты для экспериментальных/резервных пайплайнов.
+requests
+beautifulsoup4
+pdf2image
+pillow
+pytesseract
